@@ -6,7 +6,7 @@ export default function Page() {
     <section>
       <div className="flex items-center mb-8">
         <Image
-          src="/profile.png"
+          src="/profile.jpg"
           alt="profile image"
           width={100}
           height={100}
